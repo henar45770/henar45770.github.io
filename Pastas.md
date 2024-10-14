@@ -1,7 +1,7 @@
 ---
 title: Pastas
 layout: 1
-parent: Hola
+parents: Hola.md
 nav_order: 2
 ---
 
